@@ -1,0 +1,1341 @@
+fileFormatVersion: 2
+guid: df10b26afa3e74c02a2ae3d9fcdf1299
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shiny_rpg_potions_16x16_0
+    21300002: shiny_rpg_potions_16x16_1
+    21300004: shiny_rpg_potions_16x16_2
+    21300006: shiny_rpg_potions_16x16_3
+    21300008: shiny_rpg_potions_16x16_4
+    21300010: shiny_rpg_potions_16x16_5
+    21300012: shiny_rpg_potions_16x16_6
+    21300014: shiny_rpg_potions_16x16_7
+    21300016: shiny_rpg_potions_16x16_8
+    21300018: shiny_rpg_potions_16x16_9
+    21300020: shiny_rpg_potions_16x16_10
+    21300022: shiny_rpg_potions_16x16_11
+    21300024: shiny_rpg_potions_16x16_12
+    21300026: shiny_rpg_potions_16x16_13
+    21300028: shiny_rpg_potions_16x16_14
+    21300030: shiny_rpg_potions_16x16_15
+    21300032: shiny_rpg_potions_16x16_16
+    21300034: shiny_rpg_potions_16x16_17
+    21300036: shiny_rpg_potions_16x16_18
+    21300038: shiny_rpg_potions_16x16_19
+    21300040: shiny_rpg_potions_16x16_20
+    21300042: shiny_rpg_potions_16x16_21
+    21300044: shiny_rpg_potions_16x16_22
+    21300046: shiny_rpg_potions_16x16_23
+    21300048: shiny_rpg_potions_16x16_24
+    21300050: shiny_rpg_potions_16x16_25
+    21300052: shiny_rpg_potions_16x16_26
+    21300054: shiny_rpg_potions_16x16_27
+    21300056: shiny_rpg_potions_16x16_28
+    21300058: shiny_rpg_potions_16x16_29
+    21300060: shiny_rpg_potions_16x16_30
+    21300062: shiny_rpg_potions_16x16_31
+    21300064: shiny_rpg_potions_16x16_32
+    21300066: shiny_rpg_potions_16x16_33
+    21300068: shiny_rpg_potions_16x16_34
+    21300070: shiny_rpg_potions_16x16_35
+    21300072: shiny_rpg_potions_16x16_36
+    21300074: shiny_rpg_potions_16x16_37
+    21300076: shiny_rpg_potions_16x16_38
+    21300078: shiny_rpg_potions_16x16_39
+    21300080: shiny_rpg_potions_16x16_40
+    21300082: shiny_rpg_potions_16x16_41
+    21300084: shiny_rpg_potions_16x16_42
+    21300086: shiny_rpg_potions_16x16_43
+    21300088: shiny_rpg_potions_16x16_44
+    21300090: shiny_rpg_potions_16x16_45
+    21300092: shiny_rpg_potions_16x16_46
+    21300094: shiny_rpg_potions_16x16_47
+    21300096: shiny_rpg_potions_16x16_48
+    21300098: shiny_rpg_potions_16x16_49
+    21300100: shiny_rpg_potions_16x16_50
+    21300102: shiny_rpg_potions_16x16_51
+    21300104: shiny_rpg_potions_16x16_52
+    21300106: shiny_rpg_potions_16x16_53
+    21300108: shiny_rpg_potions_16x16_54
+    21300110: shiny_rpg_potions_16x16_55
+    21300112: shiny_rpg_potions_16x16_56
+    21300114: shiny_rpg_potions_16x16_57
+    21300116: shiny_rpg_potions_16x16_58
+    21300118: shiny_rpg_potions_16x16_59
+    21300120: shiny_rpg_potions_16x16_60
+    21300122: shiny_rpg_potions_16x16_61
+    21300124: shiny_rpg_potions_16x16_62
+    21300126: shiny_rpg_potions_16x16_63
+    21300128: shiny_rpg_potions_16x16_64
+    21300130: shiny_rpg_potions_16x16_65
+    21300132: shiny_rpg_potions_16x16_66
+    21300134: shiny_rpg_potions_16x16_67
+    21300136: shiny_rpg_potions_16x16_68
+    21300138: shiny_rpg_potions_16x16_69
+    21300140: shiny_rpg_potions_16x16_70
+    21300142: shiny_rpg_potions_16x16_71
+    21300144: shiny_rpg_potions_16x16_72
+    21300146: shiny_rpg_potions_16x16_73
+    21300148: shiny_rpg_potions_16x16_74
+    21300150: shiny_rpg_potions_16x16_75
+    21300152: shiny_rpg_potions_16x16_76
+    21300154: shiny_rpg_potions_16x16_77
+    21300156: shiny_rpg_potions_16x16_78
+    21300158: shiny_rpg_potions_16x16_79
+    21300160: shiny_rpg_potions_16x16_80
+    21300162: shiny_rpg_potions_16x16_81
+    21300164: shiny_rpg_potions_16x16_82
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 145
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 24
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 145
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 145
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 16
+        width: 15
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 129
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 129
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 113
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 113
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 113
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 113
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 113
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 97
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 97
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 81
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 81
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 81
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 65
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 33
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 33
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 33
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 33
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 17
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shiny_rpg_potions_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
